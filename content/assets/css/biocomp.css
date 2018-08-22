@@ -1,0 +1,17 @@
+.blog-name a {
+  color: #2b2b2b;
+}
+
+.inner{
+  max-width: 60%;
+}
+
+.blog-cover{
+  opacity: 0.6 !important;
+  background-size: 55%;
+  background-color: #096b29;
+}
+
+#blog-header.has-cover{
+  background-color: #fff;
+}
