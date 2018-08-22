@@ -1,0 +1,6 @@
+[submodule "biocomp-usp.github.io"]
+	path = biocomp-usp.github.io
+	url = git@github.com:BioComp-USP/biocomp-usp.github.io
+[submodule "output"]
+	path = output
+	url = git@github.com:BioComp-USP/biocomp-usp.github.io
